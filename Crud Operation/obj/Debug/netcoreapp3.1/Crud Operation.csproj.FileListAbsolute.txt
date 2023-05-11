@@ -1,0 +1,33 @@
+C:\Users\rishabh.dora\source\repos\Crud Operation\Crud Operation\obj\Debug\netcoreapp3.1\Crud Operation.csproj.AssemblyReference.cache
+C:\Users\rishabh.dora\source\repos\Crud Operation\Crud Operation\obj\Debug\netcoreapp3.1\Crud Operation.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\rishabh.dora\source\repos\Crud Operation\Crud Operation\obj\Debug\netcoreapp3.1\Crud Operation.AssemblyInfoInputs.cache
+C:\Users\rishabh.dora\source\repos\Crud Operation\Crud Operation\obj\Debug\netcoreapp3.1\Crud Operation.AssemblyInfo.cs
+C:\Users\rishabh.dora\source\repos\Crud Operation\Crud Operation\obj\Debug\netcoreapp3.1\Crud Operation.csproj.CoreCompileInputs.cache
+C:\Users\rishabh.dora\source\repos\Crud Operation\Crud Operation\obj\Debug\netcoreapp3.1\Crud Operation.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\rishabh.dora\source\repos\Crud Operation\Crud Operation\bin\Debug\netcoreapp3.1\appsettings.Development.json
+C:\Users\rishabh.dora\source\repos\Crud Operation\Crud Operation\bin\Debug\netcoreapp3.1\appsettings.json
+C:\Users\rishabh.dora\source\repos\Crud Operation\Crud Operation\bin\Debug\netcoreapp3.1\Crud Operation.exe
+C:\Users\rishabh.dora\source\repos\Crud Operation\Crud Operation\bin\Debug\netcoreapp3.1\Crud Operation.deps.json
+C:\Users\rishabh.dora\source\repos\Crud Operation\Crud Operation\bin\Debug\netcoreapp3.1\Crud Operation.runtimeconfig.json
+C:\Users\rishabh.dora\source\repos\Crud Operation\Crud Operation\bin\Debug\netcoreapp3.1\Crud Operation.runtimeconfig.dev.json
+C:\Users\rishabh.dora\source\repos\Crud Operation\Crud Operation\bin\Debug\netcoreapp3.1\Crud Operation.dll
+C:\Users\rishabh.dora\source\repos\Crud Operation\Crud Operation\bin\Debug\netcoreapp3.1\Crud Operation.pdb
+C:\Users\rishabh.dora\source\repos\Crud Operation\Crud Operation\bin\Debug\netcoreapp3.1\Microsoft.OpenApi.dll
+C:\Users\rishabh.dora\source\repos\Crud Operation\Crud Operation\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\rishabh.dora\source\repos\Crud Operation\Crud Operation\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\rishabh.dora\source\repos\Crud Operation\Crud Operation\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\rishabh.dora\source\repos\Crud Operation\Crud Operation\bin\Debug\netcoreapp3.1\System.Data.SqlClient.dll
+C:\Users\rishabh.dora\source\repos\Crud Operation\Crud Operation\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\sni.dll
+C:\Users\rishabh.dora\source\repos\Crud Operation\Crud Operation\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\sni.dll
+C:\Users\rishabh.dora\source\repos\Crud Operation\Crud Operation\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\sni.dll
+C:\Users\rishabh.dora\source\repos\Crud Operation\Crud Operation\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\rishabh.dora\source\repos\Crud Operation\Crud Operation\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\rishabh.dora\source\repos\Crud Operation\Crud Operation\obj\Debug\netcoreapp3.1\Crud Operation.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\rishabh.dora\source\repos\Crud Operation\Crud Operation\obj\Debug\netcoreapp3.1\staticwebassets\Crud Operation.StaticWebAssets.Manifest.cache
+C:\Users\rishabh.dora\source\repos\Crud Operation\Crud Operation\obj\Debug\netcoreapp3.1\staticwebassets\Crud Operation.StaticWebAssets.xml
+C:\Users\rishabh.dora\source\repos\Crud Operation\Crud Operation\obj\Debug\netcoreapp3.1\scopedcss\bundle\Crud Operation.styles.css
+C:\Users\rishabh.dora\source\repos\Crud Operation\Crud Operation\obj\Debug\netcoreapp3.1\Crud Operation.RazorTargetAssemblyInfo.cache
+C:\Users\rishabh.dora\source\repos\Crud Operation\Crud Operation\obj\Debug\netcoreapp3.1\Crud Operation.csproj.CopyComplete
+C:\Users\rishabh.dora\source\repos\Crud Operation\Crud Operation\obj\Debug\netcoreapp3.1\Crud Operation.dll
+C:\Users\rishabh.dora\source\repos\Crud Operation\Crud Operation\obj\Debug\netcoreapp3.1\Crud Operation.pdb
+C:\Users\rishabh.dora\source\repos\Crud Operation\Crud Operation\obj\Debug\netcoreapp3.1\Crud Operation.genruntimeconfig.cache
