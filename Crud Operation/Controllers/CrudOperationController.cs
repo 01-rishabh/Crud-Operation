@@ -54,7 +54,7 @@ namespace Crud_Operation.Controllers
             ReadRecord response = null;
             try
             {
-                
+                response = await _crudOperationSL.ReadRecord();
             }
             catch(Exception ex)
             {

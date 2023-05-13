@@ -78,7 +78,7 @@ namespace Crud_Operation.RepositoryLayer
             response.Message = "Successful";
             try
             {
-                string SqlQuery = "Select UserName, Age CrudOperationTable;";
+                string SqlQuery = "Select UserName, Age from CrudOperationTable;";
                 using(SqlCommand sqlCommand = new SqlCommand(SqlQuery, _sqlConnection))
                 {
                     sqlCommand.CommandType = System.Data.CommandType.Text;
@@ -95,8 +95,8 @@ namespace Crud_Operation.RepositoryLayer
 
                                 ReadRecordData dbData = new ReadRecordData();
                                 dbData.Username = sqlDataReader[name: "Username"] != DBNull.Value ? sqlDataReader[name: "Username"].ToString() : string.Empty;
-                                //to be continued
-                                //hello world
+                                dbData.Age = sqlDataReader[name: "Age"] != DBNull.Value ? Convert.ToInt32 (sqlDataReader[name: "Age"]) : 0;
+                                response.readRecordData.Add(dbData);
                             }
                         }
                     }
@@ -106,12 +106,15 @@ namespace Crud_Operation.RepositoryLayer
             }
             catch(Exception ex)
             {
+                response.IsSuccess = false;
+                response.Message = ex.Message;
 
             }
             finally
             {
-
+                _sqlConnection.Close();
             }
+            return response;
         }
     }
 }
